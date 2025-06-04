@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 
-![Amadhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadhya&show_icons=true&theme=radical)
+![Amadhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadhya02&show_icons=true&theme=radical)
 
 ---
 
